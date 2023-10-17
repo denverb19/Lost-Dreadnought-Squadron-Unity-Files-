@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: cbc064aeecf4e614bb39a8f48d3b7836
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Evasion_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 68
+        width: 105
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20.5, y: -21.5}
+        - {x: -28.5, y: -28.5}
+        - {x: -52.5, y: -28.5}
+        - {x: -52.5, y: 27.5}
+        - {x: -27.5, y: 27.5}
+        - {x: -22.5, y: 20.5}
+        - {x: 49.5, y: 20.5}
+        - {x: 49.5, y: -21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c14f6fc684d474bafaa0add530affe
+      internalID: -1822328880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evasion_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 68
+        width: 105
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -18.5, y: -12.5}
+        - {x: -27.85025, y: -23.5}
+        - {x: -52.5, y: -23.5}
+        - {x: -52.5, y: 21.5}
+        - {x: -28.5, y: 21.5}
+        - {x: -24.5, y: 18.5}
+        - {x: 49.5, y: 18.5}
+        - {x: 49.5, y: -12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b67c640b125ae4e92a3f74ddebf1e1
+      internalID: -423670343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evasion_2
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 68
+        width: 105
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 41.5, y: 0.5}
+        - {x: 23.5, y: -10.5}
+        - {x: 6.5, y: -10.5}
+        - {x: -4.5, y: -7.5}
+        - {x: -50.5, y: -7.5}
+        - {x: -50.5, y: 6.5}
+        - {x: -13.5, y: 6.5}
+        - {x: 1.5, y: 16.5}
+        - {x: 16.350891, y: 16.5}
+        - {x: 32.5, y: 6.5}
+        - {x: 49.5, y: 6.5}
+        - {x: 49.5, y: 0.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89ba327d615be64a8813f5917c2d5f9
+      internalID: 7423072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evasion_3
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 68
+        width: 105
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20.5, y: -15.5}
+        - {x: -26.50769, y: -23.5}
+        - {x: -52.5, y: -23.5}
+        - {x: -52.5, y: 18.5}
+        - {x: -29.5, y: 18.5}
+        - {x: -25.5, y: 15.5}
+        - {x: 49.5, y: 15.5}
+        - {x: 49.5, y: -15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a415ff85d98e7df4b9eff24d2c5d1667
+      internalID: 1835758570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evasion_4
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 68
+        width: 105
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -22.5, y: -22.5}
+        - {x: -28.5, y: -28.5}
+        - {x: -52.5, y: -28.5}
+        - {x: -52.5, y: 27.5}
+        - {x: -27.781921, y: 27.5}
+        - {x: -22.5, y: 21.5}
+        - {x: 49.5, y: 21.5}
+        - {x: 49.5, y: -22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440ae3813b28cb640acb979b09e111f7
+      internalID: -1582444305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evasion_5
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 68
+        width: 105
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -25.5, y: -20.5}
+        - {x: -30.5, y: -23.5}
+        - {x: -52.5, y: -23.5}
+        - {x: -52.5, y: 20.5}
+        - {x: -26.25293, y: 20.500008}
+        - {x: -20.5, y: 12.5}
+        - {x: 49.5, y: 12.5}
+        - {x: 49.5, y: -20.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e80105a5a7d1054d99f8c25bc8be078
+      internalID: -603151025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evasion_6
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 68
+        width: 105
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 32.5, y: -3.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 0.5, y: -13.5}
+        - {x: -9.5, y: -3.5}
+        - {x: -50.5, y: -3.5}
+        - {x: -50.5, y: 10.5}
+        - {x: -5.5, y: 10.5}
+        - {x: 4.5, y: 13.5}
+        - {x: 26.5, y: 13.5}
+        - {x: 41.5, y: 2.5}
+        - {x: 52.5, y: 2.5}
+        - {x: 52.5, y: -3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f34f7c27b510e44b81e924dcec295b0
+      internalID: 1836189997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evasion_7
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 68
+        width: 105
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -23.5, y: -20.5}
+        - {x: -26.25293, y: -27.24517}
+        - {x: -52.5, y: -27.5}
+        - {x: -52.5, y: 28.5}
+        - {x: -28.5, y: 28.5}
+        - {x: -21.5, y: 21.5}
+        - {x: 49.5, y: 21.5}
+        - {x: 49.5, y: -20.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01db6d4c438b4c44b9cbd45652314f9
+      internalID: 145535106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evasion_8
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 68
+        width: 105
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -23.5, y: -21.5}
+        - {x: -27.85022, y: -27.5}
+        - {x: -52.5, y: -27.5}
+        - {x: -52.5, y: 28.5}
+        - {x: -27.5, y: 28.5}
+        - {x: -23.5, y: 22.5}
+        - {x: 49.5, y: 22.5}
+        - {x: 49.5, y: -21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e860ef08c2405a4c811390672bb70ed
+      internalID: 381854166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Evasion_1: -423670343
+      Evasion_5: -603151025
+      Evasion_0: -1822328880
+      Evasion_4: -1582444305
+      Evasion_6: 1836189997
+      Evasion_7: 145535106
+      Evasion_8: 381854166
+      Evasion_3: 1835758570
+      Evasion_2: 7423072
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
